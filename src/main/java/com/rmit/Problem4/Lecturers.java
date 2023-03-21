@@ -4,7 +4,7 @@ public class Lecturers extends ProfilesAPI{
 
     @Override
     public String getProfile() {
-        String major = "Lecturers";
+        String major = "Lecturers ";
         return this.profile + major;
     }
 
